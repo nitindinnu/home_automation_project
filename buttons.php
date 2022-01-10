@@ -1,5 +1,5 @@
 <?php
-header( 'Location: http://13.233.25.184/projects/Home_Automation/main.html' ) ;
+header( 'Location: https://nitindinnu.github.io/home_automation_project/ ) ;
 
 $file = "buttonStatus.txt";
 $handle = fopen($file,'w+');
